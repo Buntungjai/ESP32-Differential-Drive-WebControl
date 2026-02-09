@@ -4,6 +4,8 @@
   <img src="twoWheelRobot.jpg" width="400">
 </p>
 
+https://youtu.be/6cGIzCCgsug
+
 ESP32 Differential Drive Web Control
 หุ่นยนต์สมาร์ทคาร์ขับเคลื่อนแบบ 2 ล้อ (Differential Drive) ควบคุมผ่านหน้าเว็บ Dashboard โดยใช้ ESP32 (ESPino32) เป็นหน่วยประมวลผลหลัก และใช้ระบบปฏิบัติการ FreeRTOS ในการจัดการภารกิจแบบขนาน
 
