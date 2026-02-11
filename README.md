@@ -33,3 +33,7 @@ Speed Control: ส่งค่าความเร็วผ่าน HTTP Reque
 Power System: จ่ายไฟจาก L298N (5V Out) เข้าขา Vin ของ ESPino32 เพื่อความปลอดภัยและประหยัดพื้นที่
 
 Processing: ใช้ศักยภาพของ ESP32 ในการรัน Web Server ที่ Core 0 เพื่อไม่ให้รบกวน Loop การควบคุมมอเตอร์ที่ Core 1"
+
+<p align="center">
+  <img src="overView.png" width="400">
+</p>
