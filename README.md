@@ -35,5 +35,9 @@ Power System: จ่ายไฟจาก L298N (5V Out) เข้าขา Vin 
 Processing: ใช้ศักยภาพของ ESP32 ในการรัน Web Server ที่ Core 0 เพื่อไม่ให้รบกวน Loop การควบคุมมอเตอร์ที่ Core 1"
 
 <p align="center">
+  <img src="wiring_diagram.png" width="600">
+</p>
+
+<p align="center">
   <img src="overView.png" width="600">
 </p>
